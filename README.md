@@ -52,8 +52,7 @@ Using the UCI Diabetes Symptoms dataset, we built and evaluated models like Rand
 
 [UCI Diabetes Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
 
-## 🚀 How to Run
-
-```bash
-# If using Jupyter
-pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
+## 🧑‍💻 Author  
+Nathaniel Hawley  
+Business Analytics @ ASU  
+[LinkedIn](www.linkedin.com/in/nathaniel-hawley-652319230)
