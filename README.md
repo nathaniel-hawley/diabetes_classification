@@ -39,7 +39,7 @@ Using the UCI Diabetes Symptoms dataset, we built and evaluated models like Rand
 ![Feature Importance](images/feature_importance.png)
 
 ### 📈 ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/ROC_curve.png)
 
 
 ## 📁 Files Included
