@@ -51,8 +51,3 @@ Using the UCI Diabetes Symptoms dataset, we built and evaluated models like Rand
 ## 📂 Data Source
 
 [UCI Diabetes Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
-
-## 🧑‍💻 Author  
-Nathaniel Hawley  
-Business Analytics @ ASU  
-[LinkedIn](www.linkedin.com/in/nathaniel-hawley-652319230)
