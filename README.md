@@ -32,6 +32,16 @@ Using the UCI Diabetes Symptoms dataset, we built and evaluated models like Rand
 | Decision Tree  | 0.96     | 0.96      | 0.96   | 0.96     |
 | KNN            | 0.91     | 0.91      | 0.91   | 0.91     |
 
+### 🔍 Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 📊 Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### 📈 ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+
 ## 📁 Files Included
 
 - `diabetes_model.ipynb` – Main notebook with code and analysis
