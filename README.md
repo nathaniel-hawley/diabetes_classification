@@ -25,7 +25,7 @@ Using the UCI Diabetes Symptoms dataset, we built and evaluated models like Rand
 
 ## 📈 Results
 
-| Model           | Accuracy | Precision | Recall | F1 Score |
+| Model          | Accuracy | Precision | Recall | F1 Score |
 |----------------|----------|-----------|--------|----------|
 | Random Forest  | 0.98     | 0.98      | 0.98   | 0.98     |
 | Naive Bayes    | 0.93     | 0.94      | 0.92   | 0.93     |
